@@ -1,4 +1,4 @@
-// --- START OF FILE my.js ---
+// --- START OF FILE UUID ---
 
 /**
  * Dynamic, Self-Verifying UUID Generator
